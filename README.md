@@ -1,10 +1,9 @@
-# Modern Fair Credit Scoring: Revisiting In-Processing Fairness
+# Modern Fair Credit Scoring: Algorithm-Level Methods to Mitigate Discrimination
 
-A research-oriented repository extending Kozodoi, Jacob &amp; Lessmann’s fair credit scoring framework toward modern in-processing fairness, with focus on method evolution, metric foundations, empirical setups, model compatibility, and fairness–performance–profit implications.
+A research-oriented repository extending Kozodoi, Jacob &amp; Lessmann’s fair credit scoring framework toward modern in-processing fairness, with focus on method evolution, metric foundations and fairness–performance–profit implications.
 
 ## Repository structure
 
-- `prisma/`: PRISMA workflow, screening notes, inclusion/exclusion criteria, and review artifacts.
-- `methods/`: explanations of in-processing fairness methods, method families, assumptions, objectives, and implementation notes.
-- `literature/`: literature notes, structured summaries, and bibliography work.
-- `codes/`: empirical setup, experiments, replication notes, model runs, and analysis outputs.
+## Important Links
+
+- [Kozodoi, Jacob, Lessmann (2021)](https://github.com/kozodoi/Fair_Credit_Scoring)
