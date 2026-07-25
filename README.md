@@ -10,9 +10,9 @@ A research-oriented repository extending Kozodoi, Jacob &amp; Lessmann’s fair 
 
 ## Getting Started
 
-> The repository's public Jupyter notebooks can be opened and run directly in Google Colab without any local setup. The notebook overview automatically includes every `.ipynb` file added to the repository.
->
-> Prerequisite for running notebooks: a Google account.
+> The whole repository with all it's notebooks is designed to run seamlessly on Google Colab. You can run the notebook directly in your browser without any local installation or additional setup.
+> 
+> Prerequisites: You need a Google account to connect Colabs-Backend and some free Drive-Storage to run the notebooks yourself and save the results.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/)
 
