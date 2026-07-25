@@ -16,10 +16,10 @@ A research-oriented repository extending Kozodoi, Jacob &amp; Lessmann’s fair 
 > 
 > Prerequisites: You need a Google account.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/blob/main/notebooks/test.ipynb)
 
 1. Open [Google Colab](https://colab.research.google.com/notebooks/) or click on the badge above.  
 *Note*: Not the standard domain which leads to the new [Colab Landing page](https://colab.research.google.com/)
 
 2. Click on **Github**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/blob/main/notebooks/test.ipynb)
