@@ -14,7 +14,7 @@ A research-oriented repository extending Kozodoi, Jacob &amp; Lessmann’s fair 
 > 
 > Prerequisites: You need a Google account to connect Colabs-Backend and some free Drive-Storage to run the notebooks yourself and save the results.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/JuliusD9500/modern-fair-credit-scoring))
 
 1. Click the badge above to open the repository's GitHub notebook overview in Colab.
 2. Keep **Include private repos** disabled. This public repository does not require GitHub authorization.
