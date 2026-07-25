@@ -10,16 +10,19 @@ A research-oriented repository extending Kozodoi, Jacob &amp; Lessmann’s fair 
 
 ## Getting Started
 
+> The repository's public Jupyter notebooks can be opened and run directly in Google Colab without any local setup. The notebook overview automatically includes every `.ipynb` file added to the repository.
+>
+> Prerequisite for running notebooks: a Google account.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/)
 
-> The whole repository is designed to run seamlessly on Google Colab. You can run the notebook directly in your browser without any additional setup needed.
-> 
-> Prerequisites: You need a Google account.
+1. Click the badge above to open the repository's GitHub notebook overview in Colab.
+2. Keep **Include private repos** disabled. This public repository does not require GitHub authorization.
+3. If Colab does not preselect it, choose the repository **JuliusD9500/modern-fair-credit-scoring** and branch **main**.
+4. Select any listed notebook to open it.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/blob/main/notebooks/test.ipynb)
+Public GitHub repository URL:
 
-1. Open [Google Colab](https://colab.research.google.com/notebooks/) or click on the badge above.  
-*Note*: Not the standard domain which leads to the new [Colab Landing page](https://colab.research.google.com/)
+`https://github.com/JuliusD9500/modern-fair-credit-scoring`
 
-2. Click on **Github**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuliusD9500/modern-fair-credit-scoring/blob/main/notebooks/test.ipynb)
+Individual notebooks may additionally include their own **Open in Colab** badges for direct access.
